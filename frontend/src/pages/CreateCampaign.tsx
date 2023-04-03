@@ -84,8 +84,8 @@ const CreateCampaign = () => {
             alt="money"
             className="w-[40px] h-[40px] object-contain"
           />
-          <h4 className="font-epilogue font-bold text-[25px] text-white ml-[20px]">
-            You will get 100% of the raised amount
+          <h4 className="font-epilogue font-bold text-[22px] text-white ml-[20px]">
+            100% of the funds will be used to restore schools in Ukraine
           </h4>
         </div>
 
